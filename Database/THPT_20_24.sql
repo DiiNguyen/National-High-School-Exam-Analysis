@@ -1,0 +1,2 @@
+SELECT AVG(toan)
+FROM thpt_2020
