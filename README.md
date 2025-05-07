@@ -46,6 +46,11 @@ To maintain consistency with the 2020-2021 datasets, a 'nam_thi' (exam year) col
 A 'code' column is added to df23 and df24 to indicate the province of each candidate. I conducted through extracting first 1 or 2 digits from the 'sbd' (candidate ID) column to retrieve 'city code'.
 
 # 4. EXPLORATORY DATA ANALYSIS (EDA)
+**DASHBOARD**
+
+![image](https://github.com/user-attachments/assets/f255b7ef-f374-4efc-9e3a-929d5c038434)
+
+[More](https://app.powerbi.com/groups/me/reports/572c491f-6076-4b69-a885-28c662c67d09?ctid=588b13a3-653b-4cf7-8ac0-59847eb2dc88&pbi_source=linkShare)
 ## 4.1. Number of Candidates
 ### 4.1.1 The Trend of Candidate  Participating In The National High School Exam
 
